@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719797056466",
+    "project_id": "agp-ziauddin-virtual-cli-26d04",
+    "storage_bucket": "agp-ziauddin-virtual-cli-26d04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719797056466:android:22f4e034f7b5896a5a8e0b",
+        "android_client_info": {
+          "package_name": "com.example.agp_ziauddin_virtual_clinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719797056466-7nl8rcsb29m749h9d13hcivvrht8nh4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCo6CSe5FAnjFAbCwz5C8rpjYDSOahNzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719797056466-7nl8rcsb29m749h9d13hcivvrht8nh4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
