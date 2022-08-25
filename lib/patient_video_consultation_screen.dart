@@ -165,7 +165,7 @@ class _PatientsScreenState extends State<PatientVideoConsultationScreen> {
           child: Row(
             children: <Widget>[
               Expanded(
-                child: RaisedButton(
+                child: MaterialButton(
                   onPressed: onJoin,
                   child: Text('Join'),
                   color: Colors.green,
